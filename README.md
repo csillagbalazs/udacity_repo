@@ -1,2 +1,2 @@
 # udacity_repo
-This is a repository to gain familiarity eith git and GitHub
+This is a repository to gain familiarity with git and GitHub
